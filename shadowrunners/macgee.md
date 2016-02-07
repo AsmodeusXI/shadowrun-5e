@@ -2,7 +2,7 @@
 
 ## Story
 
-Erza was born to the CEO of a powerful AA corporation that specialized in tech. Unfortunately for him, he Awakened at an early age. He refused the implants and mods that were his family speciality, preserving and perfecting his magical abilities instead. Needless to say, he and his father didn't get along too well.
+Erza was born to the CEO of a powerful AA corporation that specializes in tech. Unfortunately for him, he Awakened at an early age. He refused the implants and mods that were his family speciality, preserving and perfecting his magical abilities instead. Needless to say, he and his father don't get along too well.
 
 Those disagreements probably helped fuel his propensity for mischief. He spent plenty of his youth sneaking around the Corp's offices, pretending to be someone he wasn't, stealing keycards to get into places he shouldn't, or generally making the wrong kind of trouble. The look on a hardened Corp operative's face when she realizes the boss's fourteen year-old son talked his way into meeting with Shadowrunners? Priceless.
 
