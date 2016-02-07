@@ -4,7 +4,7 @@
 
 _Metatype:_ Elf
 
-* Low Light Vision
+* Low-Light Vision
 
 [Character Creation Calculations](https://docs.google.com/spreadsheets/d/1ewwub0CKBWml2vKlCY0agQXBsqHAXXI1fhMsqelsAIw/edit?usp=sharing)
 
@@ -18,11 +18,11 @@ _Metatype:_ Elf
 
 | Karma | Total Karma | Misc | 
 | --- | --- | --- |
-| 4* | 50 | n/a |
+| 4 | 50 | n/a |
 
 **¥**: 625 + 1d6 * 20
 
-_* Not sure if I want to do something with these last four Karma yet..._
+_* Not sure if I want to do something with these last Karma or Nuyen yet..._
 
 ##Attributes
 | BOD | AGI | REA | STR | WIL | LOG | INT | CHA |
