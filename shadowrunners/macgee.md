@@ -92,46 +92,68 @@ Hahaha that's funny.
 | Pickpocket | Palming |
 
 **Knowledge**
-| Skill | Rating |
-| --- | --- |
-| English (K) | N |
-| Weapons Manufacturers (K - Professional) | 1 |
-| Seattle Street Gangs (K - Street) | 2 |
-| Seattle Law Enforcement (K - Street) | 3 | 
-| Dive Bars (K - Interests) | 1 |
+
+| Skill                | Rating | Category | Attribute |
+| -------------------- | ------ | -------- | --------- |
+| English              | N      | ...      |  ...      |
+| Gaelic               | 2      | ...      |  ...      |
+| Corporations         | 2      | Pro      | Int       |
+| Politics             | 1      | Pro      | Int       |
+| Shadowrunning Scene  | 1      | Pro      | Int       |
+| High Society         | 1      | Pro      | Int       |
+| Magical Suppliers    | 2      | Interest | Int       |
+| Magical Groups       | 2      | Interest | Int       |
+| Magical Theory       | 1      | Interest | Int       |
+| Magical Lore         | 2      | Interest | Int       |
 
 ##Contacts
+
 | Name | Loyalty | Connection | Favor |
 | --- | --- | --- | --- | 
-| Arms Dealer | 3 | 4 | n/a |
-| Motorcycle Enthusiast | 2 | 5 | n/a |
-| Street Doc | 6 | 1 | n/a |
-| Fellow Merc | 2 | 2 | n/a |
+| Talismonger | 3 | 4 | n/a |
+| Street Vendor | 3 | 2 | n/a |
+| Homeless Person | 4 | 1 | n/a |
+| Service Desk, Old Corp | 3 | 1 | n/a |
 
 ##Vehicles
-| Vehicle | Handling | Acceleration | Speed | Pilot | Body | Armor | Sensor | Seats | Notes | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Harley-Davidson Scorpion | 4/3 | 2 | 4 | 1 | 8 | 9 | 2 | 1 | - |
-| Suzuki Mirage | 5/3 | 3 | 6 | 1 | 5 | 6 | 2 | 1 | - |
+
+Mind if I bum a ride?
 
 ##Gear
-| Item | Rating/Attributes |
-| --- | --- |
-| Ammo [Automatics] - 6,000 | - |
-| Ammo [Heavy Pistols] - 2,000 | - |
-| Containment Manacles | Armor 16, Structure 2 |
-| DocWagon Contract (Platinum) | - |
-| Flash-bangs - 20 | 10S, AP -4, Blast 10m Radius |
-| Subvocal Microphone (-4 vs. Perception when subvocalizing) | 3 |
-| Thermal Smoke Grenades - 15 | Blast 10m Radius |
+
+| Item | Rating/Attributes | Page |
+| --- | --- | ---: |
+| Metalink | (Cheap Commlink) |
+| Ammo [Pistols] - 60 | - | - |
+| Spare Clips | 3 | - |
+| Contact Lenses | - | - |
+| + Smartlink | - | - |
+| + Vision Magnification | - | - |
+| + Image Link | - | - |
+| Microtranceiver | - | - |
+| Reagents (20) | - | - |
+| Silver Credstick | 20,000 ¥ Limit | - |
+| Celtic Tatoos | (Power Foci, Lvl 6) | - |
 
 ##IDs / Lifestyles / Currency
 | Primary Lifestyle | Nuyen | 
 | --- | --- |
-| Low (+100%) | 4,835 + (3D6 + 60) ¥ |
+| Street | ??? + (1D6 * 20) ¥ |
 
-| Fake SINs | Rating | Licenses |
-| --- | --- | --- |
-| Margrond | 4 | Katana (4), Bone Lacing (4), Cyber Holster (4), AGI Enhancement (4), STR Enhancement (4), Cybereyes Smartlink (4), FN HAR (4), Ares Predator V (4), SCK Model 100 (4), Combat Axe (4), Flash bangs (4) |
-| Ulnath | 4 | Katana (4), Bone Lacing (4), Cyber Holster (4), AGI Enhancement (4), STR Enhancement (4), Cybereyes Smartlink (4), FN HAR (4), Ares Predator V (4), SCK Model 100 (4), Combat Axe (4), Flash bangs (4) |
-| Raghan | 4 | Katana (4), Bone Lacing (4), Cyber Holster (4), AGI Enhancement (4), STR Enhancement (4), Cybereyes Smartlink (4), FN HAR (4), Ares Predator V (4), SCK Model 100 (4), Combat Axe (4), Flash bangs (4) |
+| SINs | Rating | Licenses |
+| ---  | --- | --- |
+| Erza MacGee | Real | Tons! Magic, guns, vehicles, pet tiger (captive bred), etc. Almost all left in an old life. |
+| Meesha | 1 | Magic (1), Ares Predator V (1) |
+
+## Story
+
+_Rough Draft_
+
+Erza was born to the CEO of a powerful AA corporation that specialized in tech. Unfortunately for him, he Awakened at an early age. He refused the implants and mods that were his family speciality, preserving and perfecting his magical abilities instead. Needless to say, he and his father didn't get along too well.
+
+It finally came to a head when he came home with those new (admitedly badass) magical tatoos. Curses were screamed, furniture was thrown and ties were severed. It's not clear whether he disowned his family or they disowned him, but he walked out with little more than the clothes on his back.
+
+Now he lives on the streets, but at least he's not alone. He's made friends with a street vendor and another street-level resident that shares his neighborhood. They may be nobodies like him, but surviving those conditions brings people together. He also tries to keep in touch with his old talismonger and an old friend who works the IT service desk for his family's corporation.
+
+Life on the streets has been rough and Erza is getting desperate. As one of the Awakened, his first priority is a substantially better fake SIN and licenses before he winds up on the wrong side of law enforcement. That means he needs to start earning. He did a little work with his family's corporation operating Shadowrunners. How hard can it be?
+
