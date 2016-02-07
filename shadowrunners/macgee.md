@@ -6,15 +6,15 @@ Erza was born to the CEO of a powerful AA corporation that specialized in tech. 
 
 Those disagreements probably helped fuel his propensity for mischief. He spent plenty of his youth sneaking around the Corp's offices, pretending to be someone he wasn't, stealing keycards to get into places he shouldn't, or generally making the wrong kind of trouble. The look on a hardened Corp operative's face when she realizes the boss's fourteen year-old son talked his way into meeting with Shadowrunners? Priceless.
 
-It didn't help that Erza had a taste for old school style -- and didn't mind making a big deal about it. "Oh sure Dad, your nice new SuperTechy PopGun 9000 is great, but have you seen these revolvers! Look at the size of these bullets! And it goes so well with this here hat..."
+It didn't help that Erza has a taste for old school style -- and doesn't mind making a big deal about it. "Oh sure Dad, your nice new SuperTechy PopGun 9000 is great, but have you seen these revolvers! Look at the size of these bullets! And it goes so well with this here hat..."
 
-Not that he wouldn't pop the latest and greatest whiz bang features into it. For Ezra, it's about style, not substance.
+Not that he won't pop the latest and greatest whiz bang features into it. For Ezra, it's about style, not substance.
 
 It finally came to a head when he came home with those new (admitedly badass) magical tatoos. Curses were screamed, furniture was thrown and ties were severed. It's not clear whether he disowned his family or they disowned him, but he walked out with little more than the clothes on his back.
 
-Now he lives on the streets, but at least he's not alone. He's made friends with a street vendor and another street-level resident that shares his neighborhood. They may be nobodies like him, but surviving those conditions brings people together. He also tries to keep in touch with his old talismonger and an old friend who works the IT service desk for his family's corporation.
+He's spent the last few weeks living on the streets talking his way through whatever life throws at him. He's made friends with a street vendor and a fellow homeless person that shares his neighborhood. They may be nobodies like him, but surviving here brings people together, right? He also tries to keep in touch with his old talismonger and an old friend who works the IT service desk for his family's corporation.
 
-Life on the streets has been rough and Erza is getting desperate. As one of the Awakened, his first priority is a substantially better fake SIN and licenses before he winds up on the wrong side of law enforcement. That means he needs to start earning. He did a little work with his family's corporation operating Shadowrunners. How hard can it be?
+Life on the streets is rough and Erza is getting desperate. As one of the Awakened, his first priority is a substantially better fake SIN before the cops look too closely at the new street mage. That means he needs to start earning. He did a little work with his family's corporation operating Shadowrunners. How hard can it be?
 
 ##Personal Data
 
@@ -36,7 +36,7 @@ _Metatype:_ Elf
 | --- | --- | --- |
 | 0 | 50 | n/a |
 
-**¥**: 625 + 1d6 * 20
+**¥**: 215 + 1d6 * 20
 
 _* Not sure if I want to do something with these last Karma or Nuyen yet..._
 
