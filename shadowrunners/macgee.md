@@ -110,8 +110,8 @@ Hahaha that's funny.
 
 | Specialization | Skill | 
 | --- | --- | 
-| Heavy Pistols | Pistols |
-| Combat Spells | Spellcasting |
+| Revolvers | Pistols |
+| Illusion Spells | Spellcasting |
 | Legerdemain | Palming |
 
 **Knowledge**
