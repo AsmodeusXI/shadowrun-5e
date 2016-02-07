@@ -20,6 +20,8 @@ _Metatype:_ Elf
 | --- | --- | --- |
 | 4* | 50 | n/a |
 
+**¥**: 625 + 1d6 * 20
+
 _* Not sure if I want to do something with these last four Karma yet..._
 
 ##Attributes
@@ -32,11 +34,9 @@ _* Not sure if I want to do something with these last four Karma yet..._
 | 6   | 1    | 8 + 1d6    | 10 + 2d6    |  3 |   5 | 9 | 9 |
 
 ## Condition Monitor
-__Physical:__ 10
-
-__Stun:__ 11
-
-__Overflow:__ 3
+* **Physical:** 10
+* **Stun:** 11
+* **Overflow:** 3
 
 ##Augmentations
 
@@ -53,18 +53,22 @@ Hahaha that's funny.
 | Ares Predator V | 8P | 5(7) | -1 | SA | 3 | 15 (c) | Smartlink [integral], Gas-vent 3 [Barrel], Hidden Arm Slide (-1 Concealability, -1 Quick Draw) |
 
 ##Armor
+
+**Total**: 11
+
 | Armor | Rating | Notes |
 | --- | --- | --- |
 | Lined Coat | 9 | -2 Concealability |
 | Classy Wide-Brimmed Hat (Helmet) | +2 | Trodes (4 spare capacity) |
 
 ##Qualities
+
 | Quality | Notes |
 | --- | --- |
 | SINner (Corporate SIN) | Father is CEO of an AA corp specializing in tech. Refused to get mods like family wanted in favor of studying magic. Kicked out / walked out after a big fight. |
-| Mentor Spirit | Raven. +2 to Con tests and Manipulation spells. |
+| Mentor Spirit | Raven. +2 to Con tests and Manipulation spells. Charisma + Willpower (3) Test to avoid exploiting someone else’s misfortune to your own advantage or to pull a clever trick or prank even if it’s to the disadvantage of your friends. |
 | Quick Healer | +2 dice pool modifer to all Healing Tests made on/for/by her, including magical healing |
-|  |  |
+
 ## Skills
 
 **Active**
@@ -80,9 +84,9 @@ Hahaha that's funny.
 | Spellcasting | 6 | Mag |
 | Counterspelling | 5 | Mag |
 | Pistols | 6 | Agi |
-| Disguise | 2 | Int |
 | Palming | 4 | Agi |
 | Sneaking | 2 | Agi |
+| Disguise | 2 | Int |
 | Perception | 2 | Int | 
 | Assensing | 2 | Int | 
 | Astral Combat | 2 | Wis |
@@ -121,20 +125,20 @@ Hahaha that's funny.
 
 ##Vehicles
 
-Mind if I bum a ride?
+Uhh...Mind if I bum a ride?
 
 ##Gear
 
 | Item | Rating/Attributes | Page |
 | --- | --- | ---: |
 | Metalink | (Cheap Commlink) |
-| Ammo [Pistols] - 60 | - | - |
+| Ammo [Pistols] | 60 | - |
 | Spare Clips | 3 | - |
 | Contact Lenses | - | - |
 | + Smartlink | - | - |
 | + Vision Magnification | - | - |
 | + Image Link | - | - |
-| Microtranceiver | - | - |
+| Micro-tranceiver | Let's all get these. | p. 441 |
 | Reagents (20) | - | - |
 | Silver Credstick | 20,000 ¥ Limit | - |
 | Celtic Tatoos | (Power Foci, Lvl 6) | - |
