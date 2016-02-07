@@ -4,6 +4,12 @@
 
 Erza was born to the CEO of a powerful AA corporation that specialized in tech. Unfortunately for him, he Awakened at an early age. He refused the implants and mods that were his family speciality, preserving and perfecting his magical abilities instead. Needless to say, he and his father didn't get along too well.
 
+Those disagreements probably helped fuel his propensity for mischief. He spent plenty of his youth sneaking around the Corp's offices, pretending to be someone he wasn't, stealing keycards to get into places he shouldn't, or generally making the wrong kind of trouble. The look on a hardened Corp operative's face when she realizes the boss's fourteen year-old son talked his way into meeting with Shadowrunners? Priceless.
+
+It didn't help that Erza had a taste for old school style -- and didn't mind making a big deal about it. "Oh sure Dad, your nice new SuperTechy PopGun 9000 is great, but have you seen these revolvers! Look at the size of these bullets! And it goes so well with this here hat..."
+
+Not that he wouldn't pop the latest and greatest whiz bang features into it. For Ezra, it's about style, not substance.
+
 It finally came to a head when he came home with those new (admitedly badass) magical tatoos. Curses were screamed, furniture was thrown and ties were severed. It's not clear whether he disowned his family or they disowned him, but he walked out with little more than the clothes on his back.
 
 Now he lives on the streets, but at least he's not alone. He's made friends with a street vendor and another street-level resident that shares his neighborhood. They may be nobodies like him, but surviving those conditions brings people together. He also tries to keep in touch with his old talismonger and an old friend who works the IT service desk for his family's corporation.
@@ -28,7 +34,7 @@ _Metatype:_ Elf
 
 | Karma | Total Karma | Misc | 
 | --- | --- | --- |
-| 4 | 50 | n/a |
+| 0 | 50 | n/a |
 
 **¥**: 625 + 1d6 * 20
 
@@ -58,9 +64,9 @@ Hahaha that's funny.
 
 ##Ranged Weapons
 
-| Weapon | Damage | Accuracy | AP | Mode | RC | Ammo | Notes |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Ares Predator V | 8P | 5(7) | -1 | SA | 3 | 15 (c) | Smartlink [integral], Gas-vent 3 [Barrel], Hidden Arm Slide (-1 Concealability, -1 Quick Draw) |
+| Qty | Weapon | Damage | Accuracy | AP | Mode | RC | Ammo | Notes |
+| --: | --- | --- | --- | --- | --- | --- | --- | --- |
+|   2 |Ruger Super Warhawk | 9P | 5(7) | -2 | SS | - | 6 (cy) | Smartlink [integral], Hidden Arm Slide (-1 Concealability, -1 Quick Draw) |
 
 ##Armor
 
@@ -78,6 +84,7 @@ Hahaha that's funny.
 | SINner (Corporate SIN) | Father is CEO of an AA corp specializing in tech. Refused to get mods like family wanted in favor of studying magic. Kicked out / walked out after a big fight. |
 | Mentor Spirit | Raven. +2 to Con tests and Manipulation spells. Charisma + Willpower (3) Test to avoid exploiting someone else’s misfortune to your own advantage or to pull a clever trick or prank even if it’s to the disadvantage of your friends. |
 | Quick Healer | +2 dice pool modifer to all Healing Tests made on/for/by her, including magical healing |
+| Ambidextrous | Can handle objects equally well with either hand, including shooting |
 
 ## Skills
 
@@ -143,15 +150,16 @@ Uhh...Mind if I bum a ride?
 | --- | --- | ---: |
 | Metalink | (Cheap Commlink) |
 | Ammo [Pistols] | 60 | - |
-| Spare Clips | 3 | - |
+| Speed Loader | 8 | - |
 | Contact Lenses | - | - |
 | + Smartlink | - | - |
 | + Vision Magnification | - | - |
 | + Image Link | - | - |
 | Micro-tranceiver | Let's all get these. | p. 441 |
 | Reagents (20) | - | - |
-| Silver Credstick | 20,000 ¥ Limit | - |
 | Celtic Tatoos | (Power Foci, Lvl 6) | - |
+| Silver Credstick | 20,000 ¥ Limit | - |
+
 
 ##IDs / Lifestyles / Currency
 | Primary Lifestyle | Nuyen | 
@@ -161,6 +169,6 @@ Uhh...Mind if I bum a ride?
 | SINs | Rating | Licenses |
 | ---  | --- | --- |
 | Erza MacGee | Real | Tons! Magic, guns, vehicles, pet tiger (captive bred), etc. Almost all left in an old life. |
-| Meesha | 1 | Magic (1), Ares Predator V (1) |
+| Clint Eastman | 1 | Magic (1), Ruger Super Warhawk (1) |
 
 
