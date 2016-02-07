@@ -18,7 +18,9 @@ _Metatype:_ Elf
 
 | Karma | Total Karma | Misc | 
 | --- | --- | --- |
-| 5 | 50 | n/a |
+| 4* | 50 | n/a |
+
+_* Not sure if I want to do something with these last four Karma yet..._
 
 ##Attributes
 | BOD | AGI | REA | STR | WIL | LOG | INT | CHA |
@@ -48,19 +50,21 @@ Hahaha that's funny.
 
 | Weapon | Damage | Accuracy | AP | Mode | RC | Ammo | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Ares Predator V | 8P | 5(7) | -1 | SA | - | 15 (c) | Smartlink [integral], Gas-vent 3 [Barrel], Hidden Arm Slide (-1 Concealability, -1 Quick Draw) |
+| Ares Predator V | 8P | 5(7) | -1 | SA | 3 | 15 (c) | Smartlink [integral], Gas-vent 3 [Barrel], Hidden Arm Slide (-1 Concealability, -1 Quick Draw) |
 
 ##Armor
 | Armor | Rating | Notes |
 | --- | --- | --- |
 | Lined Coat | 9 | -2 Concealability |
-| Classy Wide-Brimmed Hat (Helmet) | +2 | Trodes, (4 spare capacity) |
+| Classy Wide-Brimmed Hat (Helmet) | +2 | Trodes (4 spare capacity) |
 
 ##Qualities
 | Quality | Notes |
 | --- | --- |
-| SINner (Corporate SIN) | Father is CEO of an AA corp specializing in tech. Refused to get mods like family wanted in favor of studying magic. Kicked out / walked out after a fight when he came home with his awesome new power tatoos. |
-
+| SINner (Corporate SIN) | Father is CEO of an AA corp specializing in tech. Refused to get mods like family wanted in favor of studying magic. Kicked out / walked out after a big fight. |
+| Mentor Spirit | Raven. +2 to Con tests and Manipulation spells. |
+| Quick Healer | +2 dice pool modifer to all Healing Tests made on/for/by her, including magical healing |
+|  |  |
 ## Skills
 
 **Active**
