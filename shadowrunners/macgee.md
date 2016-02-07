@@ -112,7 +112,7 @@ Hahaha that's funny.
 | --- | --- | 
 | Heavy Pistols | Pistols |
 | Combat Spells | Spellcasting |
-| Pickpocket | Palming |
+| Legerdemain | Palming |
 
 **Knowledge**
 
