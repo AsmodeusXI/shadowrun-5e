@@ -112,7 +112,7 @@ Hahaha that's funny.
 
 | Specialization | Skill | 
 | --- | --- | 
-| Semiautomatics | Pistols |
+| Heavy Pistols | Pistols |
 | Combat Spells | Spellcasting |
 | Pickpocket | Palming |
 
