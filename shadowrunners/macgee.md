@@ -1,5 +1,17 @@
 # Erza MacGee
 
+## Story
+
+_Rough Draft_
+
+Erza was born to the CEO of a powerful AA corporation that specialized in tech. Unfortunately for him, he Awakened at an early age. He refused the implants and mods that were his family speciality, preserving and perfecting his magical abilities instead. Needless to say, he and his father didn't get along too well.
+
+It finally came to a head when he came home with those new (admitedly badass) magical tatoos. Curses were screamed, furniture was thrown and ties were severed. It's not clear whether he disowned his family or they disowned him, but he walked out with little more than the clothes on his back.
+
+Now he lives on the streets, but at least he's not alone. He's made friends with a street vendor and another street-level resident that shares his neighborhood. They may be nobodies like him, but surviving those conditions brings people together. He also tries to keep in touch with his old talismonger and an old friend who works the IT service desk for his family's corporation.
+
+Life on the streets has been rough and Erza is getting desperate. As one of the Awakened, his first priority is a substantially better fake SIN and licenses before he winds up on the wrong side of law enforcement. That means he needs to start earning. He did a little work with his family's corporation operating Shadowrunners. How hard can it be?
+
 ##Personal Data
 
 _Metatype:_ Elf
@@ -153,15 +165,4 @@ Uhh...Mind if I bum a ride?
 | Erza MacGee | Real | Tons! Magic, guns, vehicles, pet tiger (captive bred), etc. Almost all left in an old life. |
 | Meesha | 1 | Magic (1), Ares Predator V (1) |
 
-## Story
-
-_Rough Draft_
-
-Erza was born to the CEO of a powerful AA corporation that specialized in tech. Unfortunately for him, he Awakened at an early age. He refused the implants and mods that were his family speciality, preserving and perfecting his magical abilities instead. Needless to say, he and his father didn't get along too well.
-
-It finally came to a head when he came home with those new (admitedly badass) magical tatoos. Curses were screamed, furniture was thrown and ties were severed. It's not clear whether he disowned his family or they disowned him, but he walked out with little more than the clothes on his back.
-
-Now he lives on the streets, but at least he's not alone. He's made friends with a street vendor and another street-level resident that shares his neighborhood. They may be nobodies like him, but surviving those conditions brings people together. He also tries to keep in touch with his old talismonger and an old friend who works the IT service desk for his family's corporation.
-
-Life on the streets has been rough and Erza is getting desperate. As one of the Awakened, his first priority is a substantially better fake SIN and licenses before he winds up on the wrong side of law enforcement. That means he needs to start earning. He did a little work with his family's corporation operating Shadowrunners. How hard can it be?
 
