@@ -38,8 +38,6 @@ _Metatype:_ Elf
 
 **¥**: 215 + 1d6 * 20
 
-_* Not sure if I want to do something with these last Karma or Nuyen yet..._
-
 ##Attributes
 | BOD | AGI | REA | STR | WIL | LOG | INT | CHA |
 | --- | --- | --- | --- | --- | --- | --- | --- |
