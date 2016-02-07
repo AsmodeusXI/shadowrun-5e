@@ -2,8 +2,6 @@
 
 ## Story
 
-_Rough Draft_
-
 Erza was born to the CEO of a powerful AA corporation that specialized in tech. Unfortunately for him, he Awakened at an early age. He refused the implants and mods that were his family speciality, preserving and perfecting his magical abilities instead. Needless to say, he and his father didn't get along too well.
 
 It finally came to a head when he came home with those new (admitedly badass) magical tatoos. Curses were screamed, furniture was thrown and ties were severed. It's not clear whether he disowned his family or they disowned him, but he walked out with little more than the clothes on his back.
