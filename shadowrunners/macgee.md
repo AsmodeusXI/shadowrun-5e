@@ -36,21 +36,25 @@ _Metatype:_ Elf
 | --- | --- | --- |
 | 0 | 50 | n/a |
 
-**¥**: 215 + 1d6 * 20
+**¥**: 15 + 1d6 * 20
 
 ##Attributes
 | BOD | AGI | REA | STR | WIL | LOG | INT | CHA |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3/6 | 4/7 | 3/6 | 1/6 | 6/6 | 2/6 | 5/6 | 7/8 |
+| 3/6 | 6/7 | 2/6 | 1/6 | 6/6 | 1/6 | 5/6 | 7/8 |
 
 | ESS | Edge | Initiative | Astral Init | Physical Limit | Mental Limit | Social Limit | Astral Limit |
 | --- | ---  | ---------- | ----------  |--- | --- | --- | --- |
-| 6   | 1    | 8 + 1d6    | 10 + 2d6    |  3 |   5 | 9 | 9 |
+| 6   | 1    | 7 + 1d6    | 10 + 2d6    |  3 |   5 | 9 | 9 |
 
 ## Condition Monitor
 * **Physical:** 10
 * **Stun:** 11
 * **Overflow:** 3
+* **Recoil Compensation:** 2 (1 + Str/3 -- p. 175)
+* **Defense:**	7 (Rea + Int)
+* **Armor:** 11		
+* **Dmg Resistance:** 14 (Body + Armor)
 
 ##Augmentations
 
@@ -147,14 +151,14 @@ Uhh...Mind if I bum a ride?
 | Item | Rating/Attributes | Page |
 | --- | --- | ---: |
 | Metalink | (Cheap Commlink) |
-| Ammo [Pistols] | 60 | - |
-| Speed Loader | 8 | - |
+| Ammo [Pistols] | Qty 60 | - |
+| Speed Loader | Qty 8 | - |
 | Contact Lenses | - | - |
 | + Smartlink | - | - |
 | + Vision Magnification | - | - |
 | + Image Link | - | - |
 | Micro-tranceiver | Let's all get these. | p. 441 |
-| Reagents (20) | - | - |
+| Reagents | Qty 30 | - |
 | Celtic Tatoos | (Power Foci, Lvl 6) | - |
 | Silver Credstick | 20,000 ¥ Limit | - |
 
@@ -181,6 +185,8 @@ _Still not 100% sure. Suggestions welcome!_
 * **Chaos** (Illusion, p.290) [F - 2]. Resist with Intuition + Logic; non-living with Object Resistance. For each net hit, target suffers a –1 dice pool mod to all tests. Affects one target, including tech. 
 * **Mass Confusion** (Illusion, p.290) [F - 1]. Resist with Logic + Willpower. For each net hit, target suffers a –1 dice pool mod to all tests. Affects AoE, mental only.
 * **Heal** (Health, p.288) [F - 4]. Heals physical boxes equal to hits. Subtract missing Essense from dice pool.
-* **Stabilize** (Health, p.289) [F - 4]. Force must equal or exceed the overflow damage already taken.
-* **Powerball** (Combat, p.284) [F]. Spellcasting + Magic [Force] v. Body. Damage = net hits.
+* ~~**Stabilize** (Health, p.289) [F - 4]. Force must equal or exceed the overflow damage already taken.~~
+* **Increase Attribute** (Health, p.288) [F - 3]. Force must equal or exceed augmented max. Add hits to attribute.
+* **Powerball** (Combat, p.284) [F]. Spellcasting + Magic [Force] v. Body. Physical Damage = net hits.
+* ~~**Stunball** (Combat, p.284) [F]. Spellcasting + Magic [Force] v. Body. Stun Damage = net hits.~~
 
