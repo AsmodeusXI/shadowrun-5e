@@ -169,4 +169,18 @@ Uhh...Mind if I bum a ride?
 | Erza MacGee | Real | Tons! Magic, guns, vehicles, pet tiger (captive bred), etc. Almost all left in an old life. |
 | Clint Eastman | 1 | Magic (1), Ruger Super Warhawk (1) |
 
+## Spells
+
+_Still not 100% sure. Suggestions welcome!_
+
+* **Animate** (Manipulation, p.292) [F - 1]. Need net hits against target’s Obj. Res. (p. 295); resistance increased by 2 for every extra 200 kilos.
+* **Control Thoughts** (Manipulation, p.293) [F - 1]. Target resists with Logic + Willpower.
+* **Influence** (Manipulation, p.293) [F - 1]. Target resists with Logic + Willpower.
+* **Levitate** (Manipulation, p.293) [F - 2]. Must beat threshold of subject’s mass divided by 200 kilograms, rounded up. Unwilling being can defend with Strength + Body. Can be moved in LoS at spell’s Force in meters per Combat Turn. 
+* **Armor** (Manipulation, p.292) [F]. Add hits to armor.
+* **Chaos** (Illusion, p.290) [F - 2]. Resist with Intuition + Logic; non-living with Object Resistance. For each net hit, target suffers a –1 dice pool mod to all tests. Affects one target, including tech. 
+* **Mass Confusion** (Illusion, p.290) [F - 1]. Resist with Logic + Willpower. For each net hit, target suffers a –1 dice pool mod to all tests. Affects AoE, mental only.
+* **Heal** (Health, p.288) [F - 4]. Heals physical boxes equal to hits. Subtract missing Essense from dice pool.
+* **Stabilize** (Health, p.289) [F - 4]. Force must equal or exceed the overflow damage already taken.
+* **Powerball** (Combat, p.284) [F]. Spellcasting + Magic [Force] v. Body. Damage = net hits.
 
