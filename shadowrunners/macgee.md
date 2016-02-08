@@ -12,7 +12,7 @@ Not that he won't pop the latest and greatest whiz bang features into it. For Ez
 
 It finally came to a head when he came home with those new (admitedly badass) magical tatoos. Curses were screamed, furniture was thrown and ties were severed. It's not clear whether he disowned his family or they disowned him, but he walked out with little more than the clothes on his back.
 
-He's spent the last few weeks living on the streets talking his way through whatever life throws at him. He's made friends with a street vendor and a fellow homeless person that shares his neighborhood. They may be nobodies like him, but surviving here brings people together, right? He also tries to keep in touch with his old talismonger and an old friend who works the IT service desk for his family's corporation.
+He's spent the last few weeks living on the streets talking his way through whatever life throws at him. He's made friends with a street vendor and a fellow street dweller that shares his neighborhood. They may be nobodies like him, but surviving here brings people together, right? He also tries to keep in touch with his old talismonger and an old friend who works the IT service desk for his family's corporation.
 
 Life on the streets is rough and Erza is getting desperate. As one of the Awakened, his first priority is a substantially better fake SIN before the cops look too closely at the new street mage. That means he needs to start earning. He did a little work with his family's corporation operating Shadowrunners. How hard can it be?
 
@@ -99,12 +99,12 @@ Hahaha that's funny.
 | Spellcasting | 6 | Mag |
 | Counterspelling | 5 | Mag |
 | Pistols | 6 | Agi |
-| Palming | 4 | Agi |
+| Palming | 5 | Agi |
 | Sneaking | 2 | Agi |
 | Disguise | 2 | Int |
 | Perception | 2 | Int | 
 | Assensing | 2 | Int | 
-| Astral Combat | 2 | Wis |
+| Astral Combat | 1 | Wis |
 
 **Specializations **
 
@@ -177,7 +177,7 @@ _Still not 100% sure. Suggestions welcome!_
 * **Control Thoughts** (Manipulation, p.293) [F - 1]. Target resists with Logic + Willpower.
 * **Influence** (Manipulation, p.293) [F - 1]. Target resists with Logic + Willpower.
 * **Levitate** (Manipulation, p.293) [F - 2]. Must beat threshold of subject’s mass divided by 200 kilograms, rounded up. Unwilling being can defend with Strength + Body. Can be moved in LoS at spell’s Force in meters per Combat Turn. 
-* **Armor** (Manipulation, p.292) [F]. Add hits to armor.
+* **Armor** (Manipulation, p.292) [F-2]. Add hits to armor.
 * **Chaos** (Illusion, p.290) [F - 2]. Resist with Intuition + Logic; non-living with Object Resistance. For each net hit, target suffers a –1 dice pool mod to all tests. Affects one target, including tech. 
 * **Mass Confusion** (Illusion, p.290) [F - 1]. Resist with Logic + Willpower. For each net hit, target suffers a –1 dice pool mod to all tests. Affects AoE, mental only.
 * **Heal** (Health, p.288) [F - 4]. Heals physical boxes equal to hits. Subtract missing Essense from dice pool.
