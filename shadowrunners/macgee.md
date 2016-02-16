@@ -77,7 +77,7 @@ Hahaha that's funny.
 | Armor | Rating | Notes |
 | --- | --- | --- |
 | Lined Coat | 9 | -2 Concealability |
-| Classy Wide-Brimmed Hat (Helmet) | +2 | Trodes (4 spare capacity) |
+| Classy Wide-Brimmed Hat (Helmet) | +2 | Trodes (4 spare capacity), Cowboy Hat Customization (5¥, GM Option) |
 
 ##Qualities
 
@@ -151,8 +151,8 @@ Uhh...Mind if I bum a ride?
 | Item | Rating/Attributes | Page |
 | --- | --- | ---: |
 | Metalink | (Cheap Commlink) |
-| Ammo [Pistols] | Qty 60 | - |
-| Speed Loader | Qty 8 | - |
+| Ammo [Heavy Pistols] | Qty 90 | - |
+| Gel Rounds [Heavy Pistols] | Qty 60 | - |
 | Contact Lenses | - | - |
 | + Smartlink | - | - |
 | + Vision Magnification | - | - |
@@ -180,13 +180,15 @@ _Still not 100% sure. Suggestions welcome!_
 * **Animate** (Manipulation, p.292) [F - 1]. Need net hits against target’s Obj. Res. (p. 295); resistance increased by 2 for every extra 200 kilos.
 * **Control Thoughts** (Manipulation, p.293) [F - 1]. Target resists with Logic + Willpower.
 * **Influence** (Manipulation, p.293) [F - 1]. Target resists with Logic + Willpower.
-* **Levitate** (Manipulation, p.293) [F - 2]. Must beat threshold of subject’s mass divided by 200 kilograms, rounded up. Unwilling being can defend with Strength + Body. Can be moved in LoS at spell’s Force in meters per Combat Turn. 
-* **Armor** (Manipulation, p.292) [F-2]. Add hits to armor.
+* **Levitate** (Manipulation, p.293) [F - 2]. Must beat threshold of subject’s mass divided by 200 kilograms, rounded up. Unwilling being can defend with Strength + Body. Can be moved in LoS at spell’s Force in meters per Combat Turn.
+* **Improved Invisibility** (Manipulation, p.291) [F-1]. Can be contested with hits vs. Logic + Intuition or Object Rating.
+* ~~**Armor** (Manipulation, p.292) [F-2]. Add hits to armor.~~
 * **Chaos** (Illusion, p.290) [F - 2]. Resist with Intuition + Logic; non-living with Object Resistance. For each net hit, target suffers a –1 dice pool mod to all tests. Affects one target, including tech. 
-* **Mass Confusion** (Illusion, p.290) [F - 1]. Resist with Logic + Willpower. For each net hit, target suffers a –1 dice pool mod to all tests. Affects AoE, mental only.
+* ~~**Mass Confusion** (Illusion, p.290) [F - 1]. Resist with Logic + Willpower. For each net hit, target suffers a –1 dice pool mod to all tests. Affects AoE, mental only.~~
 * **Heal** (Health, p.288) [F - 4]. Heals physical boxes equal to hits. Subtract missing Essense from dice pool.
 * ~~**Stabilize** (Health, p.289) [F - 4]. Force must equal or exceed the overflow damage already taken.~~
 * **Increase Attribute** (Health, p.288) [F - 3]. Force must equal or exceed augmented max. Add hits to attribute.
 * **Powerball** (Combat, p.284) [F]. Spellcasting + Magic [Force] v. Body. Physical Damage = net hits.
 * ~~**Stunball** (Combat, p.284) [F]. Spellcasting + Magic [Force] v. Body. Stun Damage = net hits.~~
+* **Physical Barrier** (Manipulation, p.294) [F - 1]. Maybe???
 
