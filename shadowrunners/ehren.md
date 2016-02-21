@@ -6,8 +6,6 @@
 
 _Metatype:_ Elf
 
-* Low-Light Vision
-
 [Character Creation Calculations](https://docs.google.com/spreadsheets/d/1Meb8xUGpjlkibKC2ivd0r_xoizoTpUjh4rnmc6o0tc4/edit?usp=sharing)
 
 | Ethnicity | Age | Sex | Height | Weight |
@@ -102,53 +100,48 @@ Why?
 
 | Skill | Rating | Atribute |
 | --- | --- | --- |
-| Acting Skill Group | 1 | Cha |
-| Influence Skill Group | 1 | Cha |
-| Intimidation | 1 | Cha |
-| Banishing | 1 | Mag |
-| Summoning | 1 | Mag |
-| Disenchanting | 1 | Mag |
+| Firearms Skill Group | 2 | Agi |
+| Automatics | 4(6) | Agi |
+| Pistols | 4(6) | Agi |
+| Gymnastics | 1 | Agi |
+| Running | 1 | Str |
+| First Aid | 6 | Log |
 | Spellcasting | 6 | Mag |
-| Counterspelling | 5 | Mag |
-| Pistols | 6 | Agi |
-| Palming | 5 | Agi |
-| Sneaking | 2 | Agi |
-| Disguise | 2 | Int |
-| Perception | 2 | Int | 
-| Assensing | 2 | Int | 
-| Astral Combat | 1 | Wis |
+| Palming | 1 | Agi |
+| Sneaking | 6 | Agi |
+| Escape Artist | 1 | Agi |
+| Locksmith | 1 | Agi |
+| Perception | 6 | Int | 
 
 **Specializations **
 
 | Specialization | Skill | 
 | --- | --- | 
-| Revolvers | Pistols |
-| Illusion Spells | Spellcasting |
-| Legerdemain | Palming |
+| Assault Rifles | Automatics |
+| Combat Wounds | First Aid |
 
 **Knowledge**
 
 | Skill                | Rating | Category | Attribute |
 | -------------------- | ------ | -------- | --------- |
-| English              | N      | ...      |  ...      |
-| Gaelic               | 2      | ...      |  ...      |
-| Corporations         | 2      | Pro      | Int       |
-| Politics             | 1      | Pro      | Int       |
-| Shadowrunning Scene  | 1      | Pro      | Int       |
-| High Society         | 1      | Pro      | Int       |
-| Magical Suppliers    | 2      | Interest | Int       |
-| Magical Groups       | 2      | Interest | Int       |
-| Magical Theory       | 1      | Interest | Int       |
-| Magical Lore         | 2      | Interest | Int       |
+| Firearms Manufacturers | 2 | Interests | Int |
+| Sharpshooters	| 1	| Interests | Int |
+| Firearms Market (supply/demand, collecting, black market, etc.)	| 4	| Street | Int |
+| Surveillance Techniques	| 2	| Street | Int |
+| Law Enforcement Procedures	| 2	| Street | Int |
+| Corporate Security	| 3	| Street | Int |
+| Japanese	| 2	| Language | Int |
+| Sperethiel	| 2	| Language | Int |
+| Chemistry	| 1	| Interests | Int |
+| Architecture & Construction	| 2	| Interests | Int |
+| Ammunition	| 2	| Interests | Int |
 
 ##Contacts
 
 | Name | Loyalty | Connection | Favor |
 | --- | --- | --- | --- | 
-| Talismonger | 3 | 4 | n/a |
-| Street Vendor | 3 | 2 | n/a |
-| Homeless Person | 4 | 1 | n/a |
-| Service Desk, Old Corp | 3 | 1 | n/a |
+| Firearms Dealer | 2 | 4 | n/a |
+
 
 ##Vehicles
 
