@@ -20,7 +20,7 @@ _Metatype:_ Elf
 | --- | --- | --- |
 | 0 | 50 | n/a |
 
-**¥**: ??? + 2d6 * 40
+**¥**: 3,185 + 2d6 * 40
 
 ##Attributes
 
@@ -159,7 +159,9 @@ Uhh...Mind if I bum a ride?
 | Spare Clip | Qty 16 | |
 | Medikit | Rating 6 | |
 | + Medikit Supplies | 6 | |
-| Trauma Patch| Qty 6| |
+| Trauma Patch | Qty 6| |
+| Antidote Patch | Qty 2 | |
+| Stim Patch | Qty 2 | |
 | Stealth Tags | Qty 4 | |
 | Sensor Tags | Qty 6 | |
 | + Directional Mic | Qty 2 | Not sure I really undersatand sensors... |
