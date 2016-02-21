@@ -26,7 +26,7 @@ _Metatype:_ Elf
 
 | BOD | AGI | REA | STR | WIL | LOG | INT | CHA |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 5 (7) / 6 | 7 (10) / 7 | 5 (9) / 6 | 14 / 6 | 3 / 6 | 5 / 6 | 6 / 7 | 2 / 8 |
+| 5 (7) / 6 | 7 (10) / 7 | 5 (9) / 6 | 4 / 6 | 3 / 6 | 5 / 6 | 6 / 7 | 2 / 8 |
 
 | ESS | Edge | Initiative | Astral Init | Physical Limit | Mental Limit | Social Limit | Astral Limit |
 | --- | ---  | ---------- | ----------  |--- | --- | --- | --- |
