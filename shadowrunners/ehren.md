@@ -68,11 +68,11 @@ Why?
 
 | Weapon | Damage | Acc | AP  | Mode     | RC  | Ammo   | Notes                 |
 | ------ | :----: | :-: | :-: | :------: | :-: | :---:  | --------------------- |
-| FN HAR | 10P    | 5(7)| -2  | SA/BF/FA | 3   | 35 (c) | Smartlink, Gas-Vent 3 |
-| Ingram Smartgun X | 8P | 5(7) | - | BF/FA | 3 | 32 (c) | Smartlink [integral], Sound Suppressor [integral], Gas-Vent 3 |
+| FN HAR | 10P    | 5(7)| -2  | SA/BF/FA | 3   | 35 (c) | Smartlink, Gas-Vent 3, Sling |
+| Ingram Smartgun X | 8P | 5(7) | - | BF/FA | 3 | 32 (c) | Smartlink [integral], Sound Suppressor [integral], Gas-Vent 3, Sling |
 | Ruger Super Warhawk | 9P | 5(7) | -2 | SS | - | 6 (cy) | Smartlink [integral], Hidden Arm Slide (-1 Concealability, -1 Quick Draw) |
 | Ares Light Fire 70| 6P | 7(9) | - | SA | - | 16 (c) | Smartlink [integral], Special Silencer (-5 to perceive, integral), Concealed Holster |
-| Streetline Special | 6P | 4(6) | - | SA | - | 6 (c) | Smartlink [integral], Concealed Holster |
+| Streetline Special | 6P | 4(6) | - | SA | - | 6 (c) | Magnetic Anomaly Detectors receive -2, Smartlink [integral], Concealed Holster |
 | Defiance EX Shocker |9S(e)| 4(6) | -5 | SS | - | 4 (m) | Smartlink [integral], Concealed Holster |
 | Parashield Dart Pistol | - | 5(7) | - | SA | - | 5 (cy) | Smartlink, Concealed Holster |
 
@@ -149,46 +149,50 @@ Uhh...Mind if I bum a ride?
 
 ##Gear
 
-| Item | Rating/Attributes | Page |
+| Item | Rating/Attr/Qty | Page |
 | --- | --- | ---: |
-| Metalink | (Cheap Commlink) |
-| Ammo [Heavy Pistols] | Qty 90 | - |
-| Gel Rounds [Heavy Pistols] | Qty 60 | - |
-| Contact Lenses | - | - |
-| + Smartlink | - | - |
-| + Vision Magnification | - | - |
-| + Image Link | - | - |
-| Micro-tranceiver | Let's all get these. | p. 441 |
-| Reagents | Qty 30 | - |
-| Celtic Tatoos | (Power Foci, Lvl 6) | - |
+| Hermes Ikon | Commlink, R5 | |
+| Contact Lenses | 1 | |
+| + Flare Compensation | | |
+| Ear Buds | Rating 3 | |
+| + Hearing Enhancement | Rating 3 | |
+| Spare Clip | Qty 16 | |
+| Medikit | Rating 6 | |
+| + Medikit Supplies | 6 | |
+| Trauma Patch| Qty 6| |
+| Stealth Tags | Qty 4 | |
+| Sensor Tags | Qty 6 | |
+| + Directional Mic | Qty 2 | Not sure I really undersatand sensors... |
+| + Area Mic | Qty 2 | |
+| + Camera | Qty 2 | |
+| Autopicker | Rating 6 | |
+| Miniwelder | | |
+| + Miniwelder Fuel Canister | Qty 3 | |
+| Gecko-Tape Gloves | | |
+| Flash-Pak | | |
+| Commercial Explosive (w/ Det. Cap) | Qty 2 | |
+| Subvocal Mic | Let's all get these. |  |
 | Silver Credstick | 20,000 ¥ Limit | - |
 
+### Ammunition
+
+| Name               | Qty  |
+| ------------------ | ---: |
+| Automatics         |  600 |
+| Pistol             |  100 |
+| Holdout            |   30 |
+| Taser Dart         |   20 |
+| Injection Dart     |   12 |
+| + Narcojet (p.410) |   12 |
 
 ##IDs / Lifestyles / Currency
+
 | Primary Lifestyle | Nuyen | 
 | --- | --- |
-| Street | ??? + (1D6 * 20) ¥ |
+| Squatter | ??? + (2D6 * 40) ¥ |
 
 | SINs | Rating | Licenses |
 | ---  | --- | --- |
-| Erza MacGee | Real | Tons! Magic, guns, vehicles, pet tiger (captive bred), etc. Almost all left in an old life. |
-| Clint Eastman | 1 | Magic (1), Ruger Super Warhawk (1) |
+| Ehren Vhrallus | Real | ??? |
+| Sudher Patraius | 4 | 5x Guns (R4) |
 
-## Spells
-
-_Still not 100% sure. Suggestions welcome!_
-
-* **Animate** (Manipulation, p.292) [F - 1]. Need net hits against target’s Obj. Res. (p. 295); resistance increased by 2 for every extra 200 kilos.
-* **Control Thoughts** (Manipulation, p.293) [F - 1]. Target resists with Logic + Willpower.
-* **Influence** (Manipulation, p.293) [F - 1]. Target resists with Logic + Willpower.
-* **Levitate** (Manipulation, p.293) [F - 2]. Must beat threshold of subject’s mass divided by 200 kilograms, rounded up. Unwilling being can defend with Strength + Body. Can be moved in LoS at spell’s Force in meters per Combat Turn.
-* **Improved Invisibility** (Manipulation, p.291) [F-1]. Can be contested with hits vs. Logic + Intuition or Object Rating.
-* ~~**Armor** (Manipulation, p.292) [F-2]. Add hits to armor.~~
-* **Chaos** (Illusion, p.290) [F - 2]. Resist with Intuition + Logic; non-living with Object Resistance. For each net hit, target suffers a –1 dice pool mod to all tests. Affects one target, including tech. 
-* ~~**Mass Confusion** (Illusion, p.290) [F - 1]. Resist with Logic + Willpower. For each net hit, target suffers a –1 dice pool mod to all tests. Affects AoE, mental only.~~
-* **Heal** (Health, p.288) [F - 4]. Heals physical boxes equal to hits. Subtract missing Essense from dice pool.
-* ~~**Stabilize** (Health, p.289) [F - 4]. Force must equal or exceed the overflow damage already taken.~~
-* **Increase Attribute** (Health, p.288) [F - 3]. Force must equal or exceed augmented max. Add hits to attribute.
-* **Powerball** (Combat, p.284) [F]. Spellcasting + Magic [Force] v. Body. Physical Damage = net hits.
-* ~~**Stunball** (Combat, p.284) [F]. Spellcasting + Magic [Force] v. Body. Stun Damage = net hits.~~
-* **Physical Barrier** (Manipulation, p.294) [F - 1]. Maybe???
