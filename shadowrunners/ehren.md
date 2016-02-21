@@ -31,9 +31,10 @@ _Metatype:_ Elf
 
 | ESS | Edge | Initiative | Astral Init | Physical Limit | Mental Limit | Social Limit | Astral Limit |
 | --- | ---  | ---------- | ----------  |--- | --- | --- | --- |
-| 0.075 | 1  | 15 + 2d6   | 12 + 2d6    |  8 |   7 | 3 | 8 |
+| 0.095 | 1  | 15 + 2d6   | 12 + 2d6    |  8 |   7 | 3 | 8 |
 
 ## Condition Monitor
+
 * **Physical:** 12
 * **Stun:** 10
 * **Overflow:** 7
@@ -43,23 +44,22 @@ _Metatype:_ Elf
 * **Dmg Resistance:** 26 (Body + Armor)
 
 ##Augmentations
+
 | Augmentation           | Rating/Attr | Ess. | Notes |
 | ---------------------- | ----------: | ---: | ----- |
 | Cybereyes              | 3           | 1.0  |       |
-| + Flare Compensation   |             | -    |       |
+| + Low-Light Vision     |             | -    |       |
 | + Thermographic Vision |             | -    |       |
 | + Vision Magnification |             | -    |       |
 | + Smartlink            |             | -    |       |
 | + Vision Enhancement   | 3           | -    |       |
-|          |             | -    |       |
-|          |             | -    |       |
-|          |             | -    |       |
-|          |             | -    |       |
-
-
-Bone Lacing, Aluminum
-
-
+| Bone Lacing, Aluminum  |             | 1.0  | +2 Str, +2 Bod, +2 Unarmed Combat |
+| Orthoskin              | 3           | 0.75 | +3 Armor |
+| Reaction Enhancers, Used |  3        | 1.125| +3 Rea |
+| Wired Reflexes 1, Alphaware | 1      | 1.6  | +1 Rea, +1d6 Initiative |
+| Muscle Toner, Used     | 3           | 0.75 | +3 Agi |
+| Platelet Factories     |             | 0.2  | When taking two or more damage, reduce damage by one. |
+| Datajack, Alphaware    |             | 0.08 | Provides DNI |
 
 ##Melee Weapons
 
