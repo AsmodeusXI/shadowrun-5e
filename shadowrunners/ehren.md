@@ -25,6 +25,7 @@ _Metatype:_ Elf
 **¥**: ??? + 2d6 * 40
 
 ##Attributes
+
 | BOD | AGI | REA | STR | WIL | LOG | INT | CHA |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 5(7)/6 | 7(10)/7 | 5(9)/6 | 14/6 | 3/6 | 5/6 | 6/7 | 2/8 |
@@ -77,24 +78,23 @@ Why?
 | Defiance EX Shocker |9S(e)| 4(6) | -5 | SS | - | 4 (m) | Smartlink [integral], Concealed Holster |
 | Parashield Dart Pistol | - | 5(7) | - | SA | - | 5 (cy) | Smartlink, Concealed Holster |
 
-
 ##Armor
-
-**Total**: 11
 
 | Armor | Rating | Notes |
 | --- | --- | --- |
-| Lined Coat | 9 | -2 Concealability |
-| Classy Wide-Brimmed Hat (Helmet) | +2 | Trodes (4 spare capacity), Cowboy Hat Customization (5¥, GM Option) |
+| Armor Jacket | 12 |  |
+| Classy Hat (Helmet) | +2 |  |
+| Orthoskin | +3 | See Augmentations |
+| Bone Lacing, Aluminum | +2 | See Augmentations |
 
 ##Qualities
 
 | Quality | Notes |
 | --- | --- |
-| SINner (Corporate SIN) | Father is CEO of an AA corp specializing in tech. Refused to get mods like family wanted in favor of studying magic. Kicked out / walked out after a big fight. |
-| Mentor Spirit | Raven. +2 to Con tests and Manipulation spells. Charisma + Willpower (3) Test to avoid exploiting someone else’s misfortune to your own advantage or to pull a clever trick or prank even if it’s to the disadvantage of your friends. |
-| Quick Healer | +2 dice pool modifer to all Healing Tests made on/for/by her, including magical healing |
-| Ambidextrous | Can handle objects equally well with either hand, including shooting |
+| Blandness | Increase threshold to remember character by one. Attempts to shadow or find in populated setting suffer -2 penalty. (p.72) |
+| Quick Healer | +2 dice pool modifer to all Healing Tests made on/for/by her, including magical healing. (p.77) |
+| Exceptional Attribute | Intuition. Raise max of chosen attribute by one. (p.72) |
+| SINner (Corporate SIN) | TODO may change for creativity purposes |
 
 ## Skills
 
