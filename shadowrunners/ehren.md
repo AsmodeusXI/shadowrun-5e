@@ -67,9 +67,9 @@ Why?
 
 ##Ranged Weapons
 
-| Weapon | Damage | Acc | AP | Mode | RC | Ammo | Notes |
-| ------ | ------ | --- | -- | ---  | --- | --- | --- |
-| FN HAR | 10P    | 5(7)| -2 |SA/BF/FA| 3 |35(c)| Smartlink, Gas-Vent 3 |
+| Weapon | Damage | Acc | AP  | Mode     | RC  | Ammo   | Notes                 |
+| ------ | :----: | :-: | :-: | :------: | :-: | :---:  | --------------------- |
+| FN HAR | 10P    | 5(7)| -2  | SA/BF/FA | 3   | 35 (c) | Smartlink, Gas-Vent 3 |
 | Ingram Smartgun X | 8P | 5(7) | - | BF/FA | 3 | 32 (c) | Smartlink [integral], Sound Suppressor [integral], Gas-Vent 3 |
 | Ruger Super Warhawk | 9P | 5(7) | -2 | SS | - | 6 (cy) | Smartlink [integral], Hidden Arm Slide (-1 Concealability, -1 Quick Draw) |
 | Ares Light Fire 70| 6P | 7(9) | - | SA | - | 16 (c) | Smartlink [integral], Special Silencer (-5 to perceive, integral), Concealed Holster |
