@@ -111,14 +111,13 @@ Why?
 | Skill | Rating | Atribute |
 | --- | --- | --- |
 | Firearms Skill Group | 2 | Agi |
-| Automatics | 4(6) | Agi |
-| Pistols | 4(6) | Agi |
+| + Automatics | +4 (6) | Agi |
+| + Pistols | +4 (6) | Agi |
 | Gymnastics | 1 | Agi |
 | Running | 1 | Str |
 | First Aid | 6 | Log |
-| Spellcasting | 6 | Mag |
-| Palming | 1 | Agi |
 | Sneaking | 6 | Agi |
+| Palming | 1 | Agi |
 | Escape Artist | 1 | Agi |
 | Locksmith | 1 | Agi |
 | Perception | 6 | Int | 
