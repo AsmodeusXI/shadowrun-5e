@@ -1,6 +1,16 @@
-# Ehren
+# Ehren Vhrallus
 
 ## Story
+
+"Guns," his boss said. "Let's head to the range, shoot a few guns and talk about that junior management trainee position opening next month." The bejowleded, firepower-obsessed man was known for taking his inferiors out for target practice to remind them exactly how inferior they were. That's especially important when you're considering promoting them. You can't have just anyone thinking they're actually _worth_ something, now can you?
+
+For Ehren, that was a turning point. He'd been living as a wageslave for years before his boss even talked to him. In fact, nobody really talked to him. Ehren kept his head down, did perfectly average work, and nothing interesting ever happened. At least, not until someone put a gun in his hand and pointed him down range. Ehren proceeded to put round after round right in the bullseye, soundly showing up his scowling, red-faced boss.
+
+Needless to say, Ehren didn't get the promotion.
+
+Fortunately, someone else at the range had a better eye for talent, and one Mr. Johnson soon approached Ehren about alternate career paths. Between studius marksmanship, unnoticable blandness and keen eye, Ehren began to eek out a quiet living making his way into places he shouldn't, listening to those who didn't want to be heard, and finding things that were meant to stay hidden.
+
+Ehren continued receiving paychecks for eight months after he stopped going to the office.
 
 ##Personal Data
 
@@ -196,5 +206,5 @@ Uhh...Mind if I bum a ride?
 | SINs | Rating | Licenses |
 | ---  | --- | --- |
 | Ehren Vhrallus | Real | ??? |
-| Sudher Patraius | 4 | 5x Guns (R4) |
+| Jonathon Dough | 4 | 5x Guns (R4) |
 
