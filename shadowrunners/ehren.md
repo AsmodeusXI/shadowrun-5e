@@ -30,7 +30,7 @@ _Metatype:_ Elf
 | --- | --- | --- |
 | 0 | 50 | n/a |
 
-**¥**: 1,185 + 2d6 * 40
+**¥**: 1,060 + 2d6 * 40
 
 ##Attributes
 
@@ -79,10 +79,10 @@ Why?
 | Weapon | Damage | Acc | AP  | Mode     | RC  | Ammo   | Notes                 |
 | ------ | :----: | :-: | :-: | :------: | :-: | :---:  | --------------------- |
 | FN HAR | 10P    | 5(7)| -2  | SA/BF/FA | 3   | 35 (c) | Smartlink, Gas-Vent 3, Sling |
-| Ingram Smartgun X | 8P | 5(7) | - | BF/FA | 3 | 32 (c) | Smartlink [integral], Sound Suppressor [integral], Gas-Vent 3, Sling |
-| Ruger Super Warhawk | 9P | 5(7) | -2 | SS | - | 6 (cy) | Smartlink [integral], Hidden Arm Slide (-1 Concealability, -1 Quick Draw) |
-| Ares Light Fire 70| 6P | 7(9) | - | SA | - | 16 (c) | Smartlink [integral], Special Silencer (-5 to perceive, integral), Concealed Holster |
-| Streetline Special | 6P | 4(6) | - | SA | - | 6 (c) | Magnetic Anomaly Detectors receive -2, Smartlink [integral], Concealed Holster |
+| Ingram Smartgun X | 8P | 5(7) | - | BF/FA | 3 | 32 (c) | Smartlink [integral], Laser Sight, Sound Suppressor [integral], Gas-Vent 3, Sling |
+| Ruger Super Warhawk | 9P | 5(7) | -2 | SS | - | 6 (cy) | Smartlink, Hidden Arm Slide |
+| Ares Light Fire 70| 6P | 7(9) | - | SA | - | 16 (c) | Smartlink [integral], Laser Sight, Special Silencer (-5 to perceive, integral), Concealed Holster |
+| Streetline Special | 6P | 4(6) | - | SA | - | 6 (c) | Magnetic Anomaly Detectors receive -2 penalty, Smartlink [integral], Concealed Holster |
 | Defiance EX Shocker |9S(e)| 4(6) | -5 | SS | - | 4 (m) | Smartlink [integral], Concealed Holster |
 | Parashield Dart Pistol | - | 5(7) | - | SA | - | 5 (cy) | Smartlink, Concealed Holster |
 
