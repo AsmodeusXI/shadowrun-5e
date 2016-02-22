@@ -30,7 +30,7 @@ _Metatype:_ Elf
 | --- | --- | --- |
 | 0 | 50 | n/a |
 
-**¥**: 3,185 + 2d6 * 40
+**¥**: 1,185 + 2d6 * 40
 
 ##Attributes
 
@@ -160,7 +160,7 @@ Uhh...Mind if I bum a ride?
 
 | Item | Rating/Attr/Qty | Page |
 | --- | --- | ---: |
-| Hermes Ikon | Commlink, R5 | |
+| Transys Avalon | Commlink, Rating 6 | |
 | Contact Lenses | 1 | |
 | + Flare Compensation | | |
 | Ear Buds | Rating 3 | |
