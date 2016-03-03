@@ -41,20 +41,31 @@ _Metatype:_ Elf
 ##Attributes
 | BOD | AGI | REA | STR | WIL | LOG | INT | CHA |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3/6 | 6/7 | 2/6 | 1/6 | 6/6 | 1/6 | 5/6 | 7/8 |
+| 3/6 | 6/7 | 2/6 | 1/6 | 5/6 | 1/6 | 5/6 | 8/8 |
 
 | ESS | Edge | Initiative | Astral Init | Physical Limit | Mental Limit | Social Limit | Astral Limit |
 | --- | ---  | ---------- | ----------  |--- | --- | --- | --- |
 | 6   | 1    | 7 + 1d6    | 10 + 2d6    |  3 |   5 | 9 | 9 |
 
-## Condition Monitor
+### Condition Monitor
+
 * **Physical:** 10
 * **Stun:** 11
 * **Overflow:** 3
+
+### Calculations
+
 * **Recoil Compensation:** 2 (1 + Str/3 -- p. 175)
 * **Defense:**	7 (Rea + Int)
 * **Armor:** 11		
 * **Dmg Resistance:** 14 (Body + Armor)
+
+**Attribute Tests**
+
+* **Composure**: 13	(CHA + WIL)
+* **Judge Intentions**:	12	(CHA + INT)
+* **Lifting/Carrying**:	4	(BOD + STR)
+* **Memory**:	7	(LOG + WIL)
 
 ##Augmentations
 
@@ -77,7 +88,7 @@ Hahaha that's funny.
 | Armor | Rating | Notes |
 | --- | --- | --- |
 | Lined Coat | 9 | -2 Concealability |
-| Classy Wide-Brimmed Hat (Helmet) | +2 | Trodes (4 spare capacity), Cowboy Hat Customization (5¥, GM Option) |
+| Classy Wide-Brimmed Hat (Helmet) | +2 | Trodes (4 spare capacity), Cowboy Hat Customization (10¥, GM Option) |
 
 ##Qualities
 
@@ -95,17 +106,23 @@ Hahaha that's funny.
 | Skill | Rating | Atribute |
 | --- | --- | --- |
 | Acting Skill Group | 1 | Cha |
+| + Con (+2, Mentor Spirit) | 2 (4) | Cha |
+| + Impersonation | 2 | Cha |
+| + Performance | 2 | Cha |
 | Influence Skill Group | 1 | Cha |
+| + Etiquette | 1 | Cha |
+| + Leadership | 1 | Cha |
+| + Negotiation | 1 | Cha |
 | Intimidation | 1 | Cha |
 | Banishing | 1 | Mag |
 | Summoning | 1 | Mag |
 | Disenchanting | 1 | Mag |
 | Spellcasting | 6 | Mag |
-| Counterspelling | 5 | Mag |
+| Counterspelling | 6 | Mag |
 | Pistols | 6 | Agi |
-| Palming | 5 | Agi |
+| Disguise | 1 | Int |
+| Palming | 2 | Agi |
 | Sneaking | 2 | Agi |
-| Disguise | 2 | Int |
 | Perception | 2 | Int | 
 | Assensing | 2 | Int | 
 | Astral Combat | 1 | Wis |
@@ -124,10 +141,10 @@ Hahaha that's funny.
 | -------------------- | ------ | -------- | --------- |
 | English              | N      | ...      |  ...      |
 | Gaelic               | 2      | ...      |  ...      |
-| Corporations         | 2      | Pro      | Int       |
-| Politics             | 1      | Pro      | Int       |
-| Shadowrunning Scene  | 1      | Pro      | Int       |
-| High Society         | 1      | Pro      | Int       |
+| Corporations         | 2      | Street   | Int       |
+| Politics             | 1      | Street   | Int       |
+| Shadowrunning Scene  | 1      | Street   | Int       |
+| High Society         | 1      | Street   | Int       |
 | Magical Suppliers    | 2      | Interest | Int       |
 | Magical Groups       | 2      | Interest | Int       |
 | Magical Theory       | 1      | Interest | Int       |
@@ -135,12 +152,12 @@ Hahaha that's funny.
 
 ##Contacts
 
-| Name | Loyalty | Connection | Favor |
-| --- | --- | --- | --- | 
-| Talismonger | 3 | 4 | n/a |
-| Street Vendor | 3 | 2 | n/a |
-| Homeless Person | 4 | 1 | n/a |
-| Service Desk, Old Corp | 3 | 1 | n/a |
+| Job | Loyalty | Connection | Favor | Biography |
+| --- | ------- | ---------- | ----- | --------- |
+| Talismonger | 3 | 4 | n/a | Margie Dancing Crow resides in and around the Renton/Salish-Shidhe Council border area. Rumor has it that she knows both the fastest, and the quickest ways to cross that boundary without questions... |
+| Street Vendor | 3 | 2 | n/a | Charle Botha is a South African immigrant. He always appreciates a heads up when Lone Star law enforcement might be sweeping through looking for reasons to crack skulls or do bribe shakedowns. |
+| Homeless Person | 4 | 1 | n/a | Gobber has perhaps slightly less than half his teeth. The ones that remain appear only to stay affixed to his gums by sheer stubborn force. Not unlike Gobber himself. He may not have much (or anything, really), but you can always count on him to stash something for you, keep a secret, or play the insane drunkard when suits come asking after you. |
+| Service Desk, Old Corp | 3 | 1 | n/a | Sidney Bester ("Captain Sid Vicious" on the forums) tries to keep half an ear open for any chatter from the head office concerning you. Level-1 help desk doesn't afford much in the way of real intel, but Sid says that if he hears anything, that he'll reach out to you. Oh, and if you ever hear of a decent job that isn't tied to wage-slaving for your "dickhole parents", he's all ears. |
 
 ##Vehicles
 
@@ -153,6 +170,7 @@ Uhh...Mind if I bum a ride?
 | Metalink | (Cheap Commlink) |
 | Ammo [Heavy Pistols] | Qty 90 | - |
 | Gel Rounds [Heavy Pistols] | Qty 60 | - |
+| Speed Loaders | Qty 3 | - |
 | Contact Lenses | - | - |
 | + Smartlink | - | - |
 | + Vision Magnification | - | - |
