@@ -10,6 +10,7 @@ _Metatype:_ Troll
 * +100% Lifestyle Costs
 
 [Best Char Sheet](https://drive.google.com/open?id=16SY9x-uA4yZI9StfasiUcPCCkrPumJoYArJaztbZ8mE)
+
 [Character Creation Calculations](https://www.evernote.com/l/AMz2UDswvZJJ4rquVkiTklhYpYHjfaNKsl0)
 
 | Ethnicity | Age | Sex | Height | Weight |
