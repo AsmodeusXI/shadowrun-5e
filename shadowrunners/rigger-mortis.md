@@ -205,7 +205,7 @@ is running the following autosofts:
 
 ### MCT-Nissan Roto-Drone - Lil' Buddy Variant
 
-**Quantity**: 4
+**Quantity**: 1
 
 **Stats**
 
