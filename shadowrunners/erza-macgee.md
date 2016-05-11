@@ -209,4 +209,4 @@ _Still not 100% sure. Suggestions welcome!_
 * **Powerball** (Combat, p.284) [F]. Spellcasting + Magic [Force] v. Body. Physical Damage = net hits.
 * ~~**Stunball** (Combat, p.284) [F]. Spellcasting + Magic [Force] v. Body. Stun Damage = net hits.~~
 * **Physical Barrier** (Manipulation, p.294) [F - 1]. Maybe???
-
+* **Magic Fingers** (Manipulation, p.294) [F-2]. Creates a psychokinetic effect as a sort of invisible hand that can hold or manipulate items. Hits on the Spellcasting + Magic Test are Strength and Agility. Can use skills remotely, replacing limits with the spell’s Force. Can perform any action, using the magic fingers as if they were your real hands. The magic fingers can manipulate objects within your line of sight, but only objects within a meter or so of one another.
