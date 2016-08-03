@@ -108,6 +108,7 @@ __Overflow:__ 6
 | Motorcycle Enthusiast | 2 | 5 | n/a |
 | Street Doc | 6 | 1 | n/a |
 | Fellow Merc | 2 | 2 | n/a |
+| Rossyln St. Cloud - Sioux Consolate | 3 | 4 | n/a |
 
 ##Vehicles
 | Vehicle | Handling | Acceleration | Speed | Pilot | Body | Armor | Sensor | Seats | Notes |
