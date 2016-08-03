@@ -154,7 +154,7 @@ Hahaha that's funny.
 
 | Job | Loyalty | Connection | Favor | Biography |
 | --- | ------- | ---------- | ----- | --------- |
-| Talismonger | 3 | 4 | n/a | Margie Dancing Crow resides in and around the Renton/Salish-Shidhe Council border area. Rumor has it that she knows both the fastest, and the quickest ways to cross that boundary without questions... |
+| Talismonger | 6 | 4 | n/a | Margie Dancing Crow resides in and around the Renton/Salish-Shidhe Council border area. Rumor has it that she knows both the fastest, and the quickest ways to cross that boundary without questions... |
 | Street Vendor | 3 | 2 | n/a | Charle Botha is a South African immigrant. He always appreciates a heads up when Lone Star law enforcement might be sweeping through looking for reasons to crack skulls or do bribe shakedowns. |
 | Homeless Person | 4 | 1 | n/a | Gobber has perhaps slightly less than half his teeth. The ones that remain appear only to stay affixed to his gums by sheer stubborn force. Not unlike Gobber himself. He may not have much (or anything, really), but you can always count on him to stash something for you, keep a secret, or play the insane drunkard when suits come asking after you. |
 | Service Desk, Old Corp | 3 | 1 | n/a | Sidney Bester ("Captain Sid Vicious" on the forums) tries to keep half an ear open for any chatter from the head office concerning you. Level-1 help desk doesn't afford much in the way of real intel, but Sid says that if he hears anything, that he'll reach out to you. Oh, and if you ever hear of a decent job that isn't tied to wage-slaving for your "dickhole parents", he's all ears. |
