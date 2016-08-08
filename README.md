@@ -18,3 +18,4 @@ Completed Shadow Run for Margie Dancingcrow
 
 Authenticity certs from person picking up. Gate, pickup location, routes. Pick up from Airport. We scope out the airport and we see nothing suspicious. We see the drop off. Leave with the bag and see 5 Halloweeners. Get into horrific accident and lose everything. 
 
+**8/10/2016** - Elf (Andrew Voltaire), not an elf contacts Margrond to find us. We all wake up restrained and are put through interrogation. Margrond is in the Tier. Margrond is brought to the group. Erza recognizes Margond
